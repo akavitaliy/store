@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'simple_form'
 gem 'devise'
 gem 'bootsnap', '>= 1.4.4', require: false
+gem 'image_processing', '~> 1.2'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
